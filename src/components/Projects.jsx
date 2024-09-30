@@ -1,6 +1,6 @@
 import React from "react";
 import ProjectsItem from "./ProjectsItem";
-import hoodImg from "../assets/hood.jpg";
+import hoodImg from "../assets/bank.jpg";
 import ctImg from "../assets/ct.jpg";
 import portImg from "../assets/Capture.jpg";
 import chat from "../assets/chat.jpg"
