@@ -1,6 +1,6 @@
 import React from "react";
 import ProjectsItem from "./ProjectsItem";
-import hoodImg from "../assets/bank.jpg";
+// import hoodImg from "../assets/bank.jpg";
 import ctImg from "../assets/ct.jpg";
 import portImg from "../assets/Capture.jpg";
 import chat from "../assets/chat.jpg"
@@ -25,7 +25,7 @@ const Projects = () => {
                 '>View</p>
             </a>
             <a href= 'https://hoodbank.netlify.app/'>
-              <ProjectsItem  img={hoodImg} title='HooBank' />
+              <ProjectsItem  img={chat} title='HooBank' />
                 <p className='text-center p-3 rounded-full bg-white text-gray-700 font-bold cursor-pointer text-lg mt-5
                 '>View</p>
             </a>
