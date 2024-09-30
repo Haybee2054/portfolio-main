@@ -8,21 +8,21 @@ const Main = () => {
   return (
     <div id="main">
       <img
-        className="w-full h-screen object-cover object-left"
+        className="w-full h-screen object-cover object-left md:w-full object-cover object-center"
         src={Ab1}
         alt="Abraham Odubena"
       />
       <div
         className="w-full h-screen absolute top-0 left-0
-      bg-white/50"
+      "
       >
         <div
           className="max-w-[700px] m-auto h-full w-full flex
          flex-col justify-center lg:items-start items-center"
         >
           <h1
-            className="sm:text-5xl text-4xl font-bold
-           text-white"
+            className="sm:text-4xl text-4xl font-bold
+           text-white md: text-3xl"
           >
             I'm Abraham Odubena
           </h1>
@@ -30,9 +30,9 @@ const Main = () => {
             I'm a
             <TypeAnimation
               sequence={[
-                "Developer", // Types 'One'
+                "Front-end developer", // Types 'One'
                 2000, // Waits 1s
-                "Coder", // Deletes 'One' and types 'Two'
+                "Problem Solver", // Deletes 'One' and types 'Two'
                 2000, // Waits 2s
                 "Tech Enthusiast", // Types 'Three' without deleting 'Two'
                 2000,

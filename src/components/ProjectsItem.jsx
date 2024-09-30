@@ -10,10 +10,10 @@ const ProjectsItem = ({img, title}) => {
             <h3 className='text-white text-2xl font-bold tracking-wider text-center'>
                 {title}
             </h3>
-            <a href= '/'>
+            {/* <a href= ''>
                 <p className='text-center p-3 rounded-full bg-white text-gray-700 font-bold cursor-pointer text-lg mt-5
                 '>More Info</p>
-            </a>
+            </a> */}
         </div>
     </div>
   )
