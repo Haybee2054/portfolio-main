@@ -1,5 +1,5 @@
 import React from "react";
-import aboutImage from '../assets/image_about.jpg';
+import aboutImage from '../assets/about_temp.jpg';
 import cv from "../assets/cvupdate.pdf";
 
 const About = () => {
