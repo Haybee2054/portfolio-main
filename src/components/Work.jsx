@@ -3,11 +3,18 @@ import WorkItem from "./WorkItem";
 
 const data = [
   {
+    year: 2024,
+    title: "Nestle",
+    duration: "Present",
+    details:
+      "At Nestlé Nigeria, I managed and maintained IT infrastructure including servers, databases, and cloud platforms, while providing technical support for hardware, software, and networking issues. I also optimized automation systems by configuring Rockwell modules, integrating PLC networks, maintaining biometric access systems, and ensuring cybersecurity and system reliability across manufacturing and office environments.",
+  },
+  {
     year: 2023,
     title: "CT DiGiTal",
     duration: "Present",
     details:
-      "Built web pages for an event management platform also built web pages for a clinic.",
+      "At CTDigital I and my Team Built different web pages for users.",
   },
   {
     year: 2023,
