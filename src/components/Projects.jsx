@@ -3,7 +3,7 @@ import ProjectsItem from "./ProjectsItem";
 // import hoodImg from "../assets/bank.jpg";
 import ctImage from '../assets/image_temp.jpg'; 
 //import portImg from "../assets/Capture.jpg";
-import chat from "../assets/image_chat.jpg"
+import chat from "../assets/chat_temp.jpg"
 import clinic from "../assets/image_clinic.jpg";
 
 const Projects = () => {
