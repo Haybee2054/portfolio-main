@@ -1,7 +1,7 @@
 import React from "react";
 import ProjectsItem from "./ProjectsItem";
 // import hoodImg from "../assets/bank.jpg";
-import ctImg from "../assets/ct.JPG";
+import ctImg from "../assets/ctt.jpg";
 import portImg from "../assets/Capture.jpg";
 import chat from "../assets/chat.jpg"
 import clinic from "../assets/clinic.jpg";
