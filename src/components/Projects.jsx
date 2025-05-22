@@ -15,7 +15,7 @@ const Projects = () => {
       </p>
         <div className="grid sm:grid-cols-2 gap-12">
         <a href= 'https://zippy-cannoli-da4a28.netlify.app/'>
-          <ProjectsItem img={ctImg} title='CTDigiTal' />
+          <ProjectsItem img={ctImage} title='CTDigiTal' />
                 <p className='text-center p-3 rounded-full bg-white text-gray-700 font-bold cursor-pointer text-lg mt-5
                 '>View </p>
             </a>
