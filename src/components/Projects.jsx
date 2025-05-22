@@ -4,7 +4,7 @@ import ProjectsItem from "./ProjectsItem";
 import ctImage from '../assets/image_temp.jpg'; 
 //import portImg from "../assets/Capture.jpg";
 import chat from "../assets/chat_temp.jpg"
-import clinic from "../assets/image_clinic.jpg";
+import clinic from "../assets/clinic_temp.jpg";
 
 const Projects = () => {
   return (
