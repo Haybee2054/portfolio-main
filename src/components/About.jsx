@@ -1,5 +1,5 @@
 import React from "react";
-import about from "../assets/About.jpg";
+import aboutImage from '../assets/About.jpg';
 import cv from "../assets/cvupdate.pdf";
 
 const About = () => {
@@ -10,7 +10,7 @@ const About = () => {
       </h1>
       <img
         className="w-full object-cover object-left rounded-3xl py-5 md:w-full object-cover object-center"
-        src={about}
+        src={aboutImage}
         alt="Abraham Odubena"
       />
       <p className="my-10 text-base font-normal text-stone-500">
@@ -24,7 +24,7 @@ const About = () => {
         technical expertise, and problem-solving skills to create websites and
         applications that enhance user experiences.
       </p>
-      <a href={cv} download="cv">
+      <a href={cv} download="Abraham Odubena">
         <button className="px-2 py-1 font-semibold text-white bg-[#001b5e] rounded-md">
           Download CV
         </button>
